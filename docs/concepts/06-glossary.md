@@ -24,6 +24,10 @@ The fees collected by the broker upon creating a stream for their users.
 The cut-off point for releasing assets. Prior to the cliff, the recipient cannot withdraw, though assets continue to
 accrue in the stream.
 
+## Close-Ended Stream
+
+Close-ended streams are transfers set in advance; steaming a predetermined amount over a predetermined period of time.
+
 ## Core
 
 Sablier contracts that are considered foundational, and are essential for Sablier to exist. Upgrading to a new version
